@@ -48,6 +48,14 @@ Train machine learning models on the training dataset. Perform hyperparameter tu
 
 Evaluate models using appropriate metrics (e.g., accuracy, precision, recall, F1-score, ROC AUC, confusion matrix) but F1-Score is suitable for imbalance classifications.
 
+Solution Maps:
+raw.githack.com/venuannamdas/Singapore_Bank_Loan_Project/master/DataScience_AI_Banking_Project.html
+![image](https://github.com/venuannamdas/Singapore_Bank_Loan_Project/assets/132436298/b5c25af7-f32e-46f8-b011-563ac2a40846)
+
+raw.githack.com/venuannamdas/Singapore_Bank_Loan_Project/master/DataScience_AI_Banking_Project_Default_Details.html
+![image](https://github.com/venuannamdas/Singapore_Bank_Loan_Project/assets/132436298/66340814-2505-40c7-b26c-7819eb585c72)
+
+
 -----
 There are 5 files
 1. BankLoanDefaultPrediction.ipynb
