@@ -57,7 +57,7 @@ raw.githack.com/venuannamdas/Singapore_Bank_Loan_Project/master/DataScience_AI_B
 
 
 -----
-There are 5 files
+There are 6 files
 1. BankLoanDefaultPrediction.ipynb
 
    it is the co-lab file, which includes all the python code used for Prediction
