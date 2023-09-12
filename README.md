@@ -62,12 +62,12 @@ There are 6 files
 
    it is the co-lab file, which includes all the python code used for Prediction
 
-2. Data Science Project SLIDES.pptx
+2 & 3 Data Science Project SLIDES
 
    it contains the presentation of this project
 
-3 & 4  are html files which show interesting customer defaults, loss, by  professions on the MAP.
+4 & 5  are html files which show interesting customer defaults, loss, by  professions on the MAP.
 
-5. Colour code for professions, that was used on the MAP.
+6. Colour code for professions, that was used on the MAP.
 
      For any details, email me     venuannamdas@alum.iisc.ac.in   / anna0002@e.ntu.edu.sg 
